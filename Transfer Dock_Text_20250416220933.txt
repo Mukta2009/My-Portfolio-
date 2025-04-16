@@ -1,0 +1,60 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krishna's Divine Shlok</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .container {
+            background-color: #d2a679;
+            color: black;
+            width: 60%;
+            margin: 50px auto;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1 {
+            background-color: #8b5a2b;
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .shlok {
+            font-size: 20px;
+            margin: 20px 0;
+        }
+        .image-container img {
+            width: 200px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Krishna's Divine Shlok!</h1>
+        <div class="shlok">
+            <p>
+                कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br>
+                मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥
+            </p>
+            <p><i>Your right is only to perform your duty, never to its fruits. Do not be attached to the results of your actions, nor be idle.</i></p>
+        </div>
+        <hr>
+        <div class="shlok">
+            <p>
+                यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।<br>
+                अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥
+            </p>
+            <p><i>Whenever righteousness declines and unrighteousness rises, I manifest Myself. To protect the virtuous, destroy the wicked, and re-establish dharma, I appear in every age.</i></p>
+        </div>
+        <div class="image-container">
+            <img src="krishna-image.jpg" alt="Lord Krishna">
+        </div>
+    </div>
+</body>
+</html>
